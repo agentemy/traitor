@@ -3,3 +3,4 @@ line 2 from branch1
 line 3 from branch1
 line 4 from branch1
 line 5 from branch1
+add line 1
